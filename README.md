@@ -6,6 +6,6 @@
 <h6>Também dá pra clonar e modificar:</h6>
 ```
 
-git clone https://github.com/LUISMAGAIVER341/LoFi-Desktop/
+        git clone https://github.com/LUISMAGAIVER341/LoFi-Desktop/
 ```
 
