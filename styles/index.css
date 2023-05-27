@@ -14,3 +14,12 @@ body {
     height: 1080;
     max-height: 1080;
 }
+#OmG {
+    background-image: "baixados.jfif", 1920px, 1080px;
+    min-width: 1920px;
+    width: 1920px;
+    max-width: 1920px;
+    min-height: 1080;
+    height: 1080;
+    max-height: 1080;
+}
