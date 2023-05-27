@@ -10,4 +10,4 @@
         git clone https://github.com/LUISMAGAIVER341/LoFi-Desktop/
 ```
 
-<h6>Não temos uma paleta de cores específica, mas para modo dark, '#2c2c2c'</h6>
+<h6>Não temos uma paleta de cores específica, mas para modo dark, `#2c2c2c`</h6>
