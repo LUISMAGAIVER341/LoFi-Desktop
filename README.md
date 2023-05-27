@@ -11,3 +11,4 @@
 ```
 
 Não temos uma paleta de cores específica, mas para modo dark,você pode usar `#2c2c2c`, e pro light, `#ffffff`.
+Feito com ❤ por Luís Miguel.
