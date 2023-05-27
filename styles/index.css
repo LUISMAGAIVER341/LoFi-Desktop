@@ -5,3 +5,11 @@
     width: 48px;
     background-color: white;
 }
+body {
+    min-width: 1920px;
+    width: 1920px;
+    max-width: 1920px;
+    min-height: 1080;
+    height: 1080;
+    max-height: 1080;
+}
