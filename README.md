@@ -4,15 +4,8 @@
  https://luismagaiver341.github.io/LoFi-Desktop/
 </button>
 <h6>Também dá pra clonar e modificar:</h6>
-``` bash
-    git clone https://github.com/LUISMAGAIVER341/LoFi-Desktop/
-```
-```
+```bash
 
 git clone https://github.com/LUISMAGAIVER341/LoFi-Desktop/
 ```
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+
