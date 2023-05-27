@@ -1,4 +1,5 @@
 #Dock {
+    display: flex;
     border-radius: 20%;
     height: 48px;
     width: 48px;
