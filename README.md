@@ -6,6 +6,8 @@
 <h6>Também dá pra clonar e modificar:</h6>
 
 
-```git
+```console
         git clone https://github.com/LUISMAGAIVER341/LoFi-Desktop/
 ```
+
+<h6>Não temos uma paleta de cores específica, mas para modo dark, 'rgb(44, 44, 44)'</h6>
