@@ -10,4 +10,4 @@
         git clone https://github.com/LUISMAGAIVER341/LoFi-Desktop/
 ```
 
-Não temos uma paleta de cores específica, mas para modo dark, `#2c2c2c`
+Não temos uma paleta de cores específica, mas para modo dark,você pode usar `#2c2c2c`, e pro light, `#ffffff`.
