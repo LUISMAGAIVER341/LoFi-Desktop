@@ -14,4 +14,4 @@ Não temos uma paleta de cores específica, mas para modo dark,você pode usar `
 
 
 Feito com ❤ por Luís Miguel.
-<h6>Muito obrigado ao usuário [![kittinan] (https://github.com/kittinan/)] que fez o (atual) [![Spotify-docklet] (https://github.com/kittinan/spotify-github-stats)]</h6>
+<h6>Muito obrigado ao usuário [![kittinan] (https://github.com/kittinan/)] que fez o (atual) [![Spotify-docklet] (https://github.com/kittinan/spotify-github-profile)]</h6>
