@@ -16,6 +16,14 @@
     position: absolute;
     
 }
+#spotify-docklet {
+    width: auto;
+    max-width: auto;
+    min-width: auto;
+    height: auto;
+    max-height: auto;
+    min-height: auto;
+}
 /*
 body {
     display: flex;
