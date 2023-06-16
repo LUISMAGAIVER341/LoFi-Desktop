@@ -14,4 +14,8 @@ Não temos uma paleta de cores específica, mas para modo dark,você pode usar `
 
 
 Feito com ❤ por Luís Miguel.
-<h6>Muito obrigado ao usuário [![kittinan] (https://github.com/kittinan/)] que fez o (atual) [![Spotify-docklet] (https://github.com/kittinan/spotify-github-profile)]</h6>
+<h1>✌_É nóis!_✌</h1>
+Obrigado ao kittinan, que fez o spotify-gihub-profile!(https://github.com/kittinan/spotify-github-profile)
+
+Obrigado ao criador do granim.js, cuja qual foi muito útil na hora de fazer gradientes responsivos e dinâmicos!
+
