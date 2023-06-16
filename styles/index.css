@@ -33,8 +33,8 @@ body {
 #spotify-docklet {
     top: 100px;
     position: absolute;
-    color: transparent;
-    background-color: transparent;
+    color: auto;
+    background-color: white;
     width: auto;
     max-width: auto;
     min-width: auto;
