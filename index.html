@@ -1,12 +1,28 @@
 <!DOCTYPE html>
 <html lang="pt">
     <head>
-        <script src="scripts/htMain.js"></script>
+        <script src="g.js/dist/granim.min.js"></script>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>LoFi Desktop</title>
         <link rel="stylesheet" href="styles/index.css">
+        <script>
+        var granimInstance = new Granim({
+            element: '"OmG',
+            direction: 'left-right',
+            isPausedWhenNotInView: false,
+            states : {
+                "default-state": {
+                    gradients: [
+                        ['#ff9966', '#ff5e62'],
+                        ['#00F260', '#0575E6'],
+                        ['#e1eec3', '#f05053']
+                    ]
+                }
+            }
+        });
+    </script>
     </head>
     <body id="OmG">
         <img id="spotify-docklet" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=iransantos.marcio&cover_image=true&theme=novatorem&bar_color=5e30eb&bar_color_cover=true"/>
