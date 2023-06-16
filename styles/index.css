@@ -17,6 +17,10 @@
     
 }
 #spotify-docklet {
+    top: 100px;
+    position: absolute;
+    color: transparent;
+    background-color: transparent;
     width: auto;
     max-width: auto;
     min-width: auto;
