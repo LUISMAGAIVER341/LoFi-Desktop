@@ -1,5 +1,5 @@
 var granimInstance = new Granim({
-    element: 'body',
+    element: '"OmG',
     direction: 'left-right',
     isPausedWhenNotInView: false,
     states : {
