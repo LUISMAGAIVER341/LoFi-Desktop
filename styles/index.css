@@ -11,6 +11,7 @@ body {
 
 
 #Dock {
+    background: linear-gradient(to right, yellow, orange);
     display: flex;
     border-radius: 20%;
     height: 48px;
