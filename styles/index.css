@@ -11,6 +11,9 @@ body {
 
 
 #Dock {
+    top: 1px;
+    left: 1px;
+    padding: 0%;
     background: linear-gradient(to right, rgb(86, 162, 255), rgb(86, 255, 162));
     display: flex;
     border-radius: 100%;
