@@ -17,5 +17,5 @@ Feito com ❤ por Luís Miguel.
 <h1>✌_É nóis!_✌</h1>
 Obrigado ao kittinan, que fez o spotify-gihub-profile!(https://github.com/kittinan/spotify-github-profile)
 
-Obrigado ao criador do granim.js, cuja qual foi muito útil na hora de fazer gradientes responsivos e dinâmicos!
+Obrigado ao criador do granim.js, cuja qual foi muito útil na hora de fazer gradientes responsivos e dinâmicos!(Que por algum motivo, razão ou circunstância, ele não foi usado)
 
