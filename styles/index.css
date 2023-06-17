@@ -9,7 +9,12 @@ body {
     left: 0;
 }
 
-
+#Bubble {
+    width: 100vw;
+    height: 100vh;
+    background: url('../03-DevHome_DM-4K.png');
+    background-size: cover;
+}
 
 #Dock {
     top: 1%;
