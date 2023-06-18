@@ -20,16 +20,16 @@ body {
 }
 
 #Dock {
-    color-scheme: #9C7BFF;
+    color-scheme: #34265d;
     top: 1%;
     left: 1%;
     padding: 0%;
-    color: #9C7BFF;
+    color: #34265d;
     display: flex;
     border-radius: 100%;
     height: 48px;
     width: 48px;
-    background-color: #9C7BFF;
+    background-color: #34265d;
     position: absolute;
 }
 #zitt {
