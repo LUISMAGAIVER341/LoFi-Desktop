@@ -19,6 +19,20 @@ body {
     background-size: cover;
 }
 
+#Dock2 {
+    color-scheme: #473383;
+    top: 1%;
+    left: 1%;
+    padding: 0%;
+    color: #473383;
+    display: flex;
+    border-radius: 100%;
+    height: 48px;
+    width: 96px;
+    background-color: #473383;
+    position: absolute;
+}
+
 #Dock {
     color-scheme: #34265d;
     top: 1%;
