@@ -36,7 +36,7 @@ body {
 #Dock {
     color-scheme: #34265d;
     top: 1%;
-    left: 1%;
+    left: 16px;
     padding: 0%;
     color: #34265d;
     display: flex;
@@ -58,6 +58,7 @@ body {
     
 }
 #spotify-docklet {
+    left: 16px;
     margin: 0%;
     padding: 0%;
     vertical-align: bottom;
