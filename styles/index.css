@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
 body {
     margin: 0vw;
     margin: 0vh;
@@ -22,13 +23,13 @@ body {
 #Dock2 {
     color-scheme: #473383;
     top: 1%;
-    left: 1%;
+    left: 16px;
     padding: 0%;
     color: #473383;
     display: flex;
     border-radius: 100px;
-    height: 48px;
-    width: 96px;
+    height: 32px;
+    width: 64px;
     background-color: #473383;
     position: absolute;
 }
@@ -41,8 +42,8 @@ body {
     color: #34265d;
     display: flex;
     border-radius: 100px;
-    height: 48px;
-    width: 48px;
+    height: 32px;
+    width: 32px;
     background-color: #34265d;
     position: absolute;
 }
@@ -67,34 +68,54 @@ body {
     position: absolute;
     color: auto;
     background-color: white;
-    width: auto;
+    width: 300px;
     max-width: auto;
     min-width: auto;
-    height: auto;
+    height: 96px;
     max-height: auto;
     min-height: auto;
 }
-/*
-body {
-    display: flex;
-    background-image: "baixados.jfif", 1920px, 1080px;
-    min-width: 1920px;
-    width: 1920px;
-    max-width: 1920px;
-    min-height: 1080;
-    height: 1080;
-    max-height: 1080;
+
+#spotify-menu {
+    border-radius: 10px;
+    position: absolute;
+    top: 44px;
+    left: 32px;
+    display: none;
+    width: 128px;
+    height: 48px;
+    color: white;
+    background-color: white;
 }
-#OmG {
-    display: flex;
-    background-image: "baixados.jfif", 1920px, 1080px;
-    min-width: 1920px;
-    width: 1920px;
-    max-width: 1920px;
-    min-height: 1080;
-    height: 1080;
-    max-height: 1080;
+#spotify-icon {
+    align-self: center;
+    justify-content: center;
+    position: absolute;
+    left: 32px;
 }
-#o {
-    color: aqua;
-}*/
+#sptbtn {
+    margin: none;
+    border: none;
+    color: transparent;
+    background: transparent;
+    border-radius: 100%;
+    align-self: center;
+    justify-content: center;
+    position: absolute;
+    left: 32px;
+    width: 30px;
+    height: 30px;
+}
+#dExit {
+    left: 100px;
+    align-self: right;
+    align-items: right;
+    border: none;
+    margin: none;
+    background-color: transparent;
+    background: transparent;
+}
+#sImg {
+    left: 100px;
+}
+/*font-family: 'Syne', sans-serif;*/

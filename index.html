@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt">
     <head>
+        <a style="display: none;" href="https://icons8.com/icon/46/x">X</a> <!--icon by--> <a style="display: none;" href="https://icons8.com">Icons8</a>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6779585966493882"
      crossorigin="anonymous"></script>
         <script src="scripts/htMain.js"></script>
@@ -9,22 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>LoFi Desktop</title>
         <link rel="stylesheet" href="styles/index.css">
-        <script>
-        var granimInstance = new Granim({
-            element: 'body',
-            direction: 'left-right',
-            isPausedWhenNotInView: false,
-            states : {
-                "default-state": {
-                    gradients: [
-                        ['#ff9966', '#ff5e62'],
-                        ['#00F260', '#0575E6'],
-                        ['#e1eec3', '#f05053']
-                    ]
-                }
-            }
-        });
-    </script>
+        
     </head>
     <body id="OmG">
         <div id="Bubble"></div>
@@ -34,7 +20,16 @@
         
         <!--<img id="spotify-docklet" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=iransantos.marcio&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=iransantos.marcio&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>-->
         <p id="Dock2">
-
+            <img id="spotify-icon" width="30" height="30" src="https://img.icons8.com/ios-filled/50/spotify.png" alt="spotify"/>
+            <button id="sptbtn" onclick="OpSm()">
+            </button>
+            <p align="right">
+                <p id="spotify-menu">
+                    <button id="dExit" onclick="sptexit()">
+                        <img id="sImg" width="16" height="16" src="https://img.icons8.com/ios/500/delete-sign--v1.png" alt="delete-sign--v1"/>
+                    </button>
+                </p>
+            </p>
         </p>
         
         <p id="Dock">
@@ -42,4 +37,6 @@
         </p>
         
     </body>
+
+    
 </html> 

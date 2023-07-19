@@ -1,2 +1,15 @@
-var dock = document.getElementById("dock");
-alert(dock.styles.color);
+function OpSm() {
+    if (document.getElementById('spotify-menu').style.display = "none") {
+        document.getElementById('spotify-menu').style.display = "block";
+    
+    }
+    
+    
+};
+function sptexit() {
+    if (document.getElementById('spotify-menu').style.display = "block") {
+        document.getElementById('spotify-menu').style.display = "none";
+            
+    
+    } 
+}

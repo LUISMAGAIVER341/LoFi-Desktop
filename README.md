@@ -19,3 +19,4 @@ Obrigado ao kittinan, que fez o spotify-gihub-profile!(https://github.com/kittin
 
 Obrigado ao criador do granim.js, cuja qual foi muito útil na hora de fazer gradientes responsivos e dinâmicos!(Que por algum motivo, razão ou circunstância, ele não foi usado)
 
+Muito Obrigado também, ao icons8 que está provendo maior parte dos ícones!
