@@ -29,7 +29,7 @@ body {
     display: flex;
     border-radius: 100px;
     height: 32px;
-    width: 64px;
+    width: 66px;
     background-color: #473383;
     position: absolute;
 }
@@ -77,6 +77,11 @@ body {
 }
 
 #spotify-menu {
+    filter:blur(6px);
+    -o-filter:blur(6px);
+    -ms-filter:blur(6px);
+    -moz-filter:blur(6px);
+    -webkit-filter:blur(6px);
     backdrop-filter: blur(6px);
     border-radius: 10px;
     position: absolute;
