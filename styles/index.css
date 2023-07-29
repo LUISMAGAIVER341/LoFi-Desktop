@@ -125,6 +125,15 @@ body {
     width: 30px;
     height: 30px;
 }
+#dExitV2 {
+    left: 100px;
+    align-self: right;
+    align-items: right;
+    border: none;
+    margin: none;
+    background-color: transparent;
+    background: transparent;
+}
 #dExit {
     left: 100px;
     align-self: right;
