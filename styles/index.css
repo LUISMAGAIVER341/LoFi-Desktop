@@ -126,6 +126,7 @@ body {
     height: 30px;
 }
 #dExitV2 {
+    position: absolute;
     left: 100px;
     align-self: right;
     align-items: right;
