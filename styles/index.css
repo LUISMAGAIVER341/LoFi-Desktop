@@ -76,7 +76,7 @@ body {
     min-height: auto;
 }
 
-#spotify-menu {
+#spotify-blur {
     opacity: 0,7;
     filter:blur(6px);
     -o-filter:blur(6px);
@@ -84,6 +84,18 @@ body {
     -moz-filter:blur(6px);
     -webkit-filter:blur(6px);
     backdrop-filter: blur(6px);
+    border-radius: 10px;
+    position: absolute;
+    top: 44px;
+    left: 32px;
+    display: none;
+    width: 128px;
+    height: 48px;
+    color: white;
+    background-color: white;
+}
+#spotify-menu {
+    opacity: 0,7;
     border-radius: 10px;
     position: absolute;
     top: 44px;
