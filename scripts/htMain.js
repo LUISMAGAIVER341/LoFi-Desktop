@@ -1,3 +1,4 @@
+
 function OpSm() {
     if (document.getElementById('spotify-menu').style.display = "none") {
         document.getElementById('spotify-menu').style.display = "block";
