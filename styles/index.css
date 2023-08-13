@@ -109,6 +109,8 @@ body {
     background-color: white;
 }
 #spotify-icon {
+    opacity: 1;
+    filter: blur(0px);
     align-self: center;
     justify-content: center;
     position: absolute;
@@ -128,6 +130,7 @@ body {
     height: 30px;
 }
 #dExitV2 {
+    filter: blur(0px);
     position: absolute;
     left: 100px;
     align-self: right;
