@@ -94,9 +94,11 @@ body {
     width: 128px;
     height: 48px;
     color: white;
-    background-color: transparent;
+    background-color: white;
+    
 }
 #spotify-menu {
+    
     opacity: 0.5;
     border-radius: 10px;
     position: absolute;
