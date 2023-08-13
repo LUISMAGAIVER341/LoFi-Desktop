@@ -80,12 +80,12 @@ body {
 
 #spotify-blur {
     opacity: 1;
-    filter:blur(6px);
-    -o-filter:blur(6px);
-    -ms-filter:blur(6px);
-    -moz-filter:blur(6px);
-    -webkit-filter:blur(6px);
-    backdrop-filter: blur(6px);
+    filter:blur(12px);
+    -o-filter:blur(12px);
+    -ms-filter:blur(12px);
+    -moz-filter:blur(12px);
+    -webkit-filter:blur(12px);
+    backdrop-filter: blur(12px);
     border-radius: 10px;
     position: absolute;
     top: 44px;
