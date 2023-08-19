@@ -25,34 +25,34 @@ body {
 #Dock2 {
     color-scheme: #473383;
     top: 1%;
-    left: 16px;
+    left: 14px;
     padding: 0%;
     color: #473383;
     display: flex;
     border-radius: 100px;
     height: 32px;
-    width: 66px;
+    width: 44px;
     background-color: #473383;
     position: absolute;
 }
 
 #Dock {
-    color-scheme: #34265d;
+    color-scheme: #34245d;
     top: 1%;
-    left: 16px;
+    left: 14px;
     padding: 0%;
-    color: #34265d;
+    color: #34245d;
     display: flex;
     border-radius: 100px;
     height: 32px;
     width: 32px;
-    background-color: #34265d;
+    background-color: #34245d;
     position: absolute;
 }
 #zitt {
     display: none;
-    min-width: 1269px;
-    width: 1269px;
+    min-width: 1249px;
+    width: 1249px;
     max-width: 1279px;
     min-height: 779px;
     height: 779px;
@@ -61,7 +61,7 @@ body {
     
 }
 #spotify-docklet {
-    left: 16px;
+    left: 14px;
     margin: 0%;
     padding: 0%;
     vertical-align: bottom;
@@ -73,29 +73,29 @@ body {
     width: 300px;
     max-width: auto;
     min-width: auto;
-    height: 96px;
+    height: 94px;
     max-height: auto;
     min-height: auto;
 }
 
 #spotify-blur {
     opacity: 1;
-    filter:blur(6px);
-    -o-filter:blur(6px);
-    -ms-filter:blur(6px);
-    -moz-filter:blur(6px);
-    -webkit-filter:blur(6px);
-    backdrop-filter: blur(6px);
+    filter:blur(4px);
+    -o-filter:blur(4px);
+    -ms-filter:blur(4px);
+    -moz-filter:blur(4px);
+    -webkit-filter:blur(4px);
+    backdrop-filter: blur(4px);
     border-radius: 10px;
     position: absolute;
-    top: 44px;
+    top: 46px;
     left: 32px;
     display: none;
     width: 128px;
     height: 48px;
-    color: rgba(255, 255, 255, 0);
-    background-color: rgba(255, 255, 255, 0);
     
+    color: transparent;
+    background-color: transparent;
 }
 #spotify-menu {
     
