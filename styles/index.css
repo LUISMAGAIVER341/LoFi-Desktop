@@ -37,16 +37,17 @@ body {
 }
 
 #Dock {
-    color-scheme: #34245d;
+    border: #ff4646 , 1px;
+    color-scheme: #ff5050;
     top: 1%;
     left: 14px;
     padding: 0%;
-    color: #34245d;
+    color: #ff5050;
     display: flex;
     border-radius: 100px;
     height: 32px;
-    width: 32px;
-    background-color: #34245d;
+    width: 96px;
+    background-color: #ff5050;
     position: absolute;
 }
 #zitt {
